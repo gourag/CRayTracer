@@ -1,0 +1,13 @@
+int is_alnum(int c);
+int is_alpha(int c);
+int is_ascii(int c);
+int is_blank(int c);
+int is_cntrl(int c);
+int is_digit(int c);
+int is_graph(int c);
+int is_lower(int c);
+int is_print(int c);
+int is_punct(int c);
+int is_space(int c);
+int is_upper(int c);
+int is_xdigit(int c);
